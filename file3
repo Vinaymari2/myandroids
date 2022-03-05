@@ -1,0 +1,9 @@
+{
+new file3 is created for staching....!
+<<<<<<< Updated upstream
+}
+{
+backup file3 is restored
+=======
+>>>>>>> Stashed changes
+} 
